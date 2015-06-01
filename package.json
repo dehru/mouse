@@ -1,0 +1,9 @@
+{
+    "name": "mouse",
+    "description": "mouse depends on air and water",
+    "version": "0.0.0",
+    "private": true,
+    "dependencies": {
+        "underscore": "1.7.9"
+    }
+}
